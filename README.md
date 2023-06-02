@@ -11,7 +11,10 @@
 | elemento 1 | elemento 2 |
 | elemento 3 | elemento 4 |
 
- 
+<p align="center">
+<img src="images/image-01.jpg" width="350">
+</p>
+
 ```
 print "hola mundo"
 ```
